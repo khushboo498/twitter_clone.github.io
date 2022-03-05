@@ -2,7 +2,7 @@
   "name": "twitter-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khushboo498.github.io",
+  "homepage": "https://khushboo498.github.io/twitter_clone.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
